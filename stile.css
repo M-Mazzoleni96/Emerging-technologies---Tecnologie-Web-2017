@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+#homelogo {width: 3.5em;
+			vertical-align:middle;
+			}
+#hometext {font-weight: bold;}
+.card {height: 100px !important;
+		font-size: 20px;
+		text-align: center;
+		  vertical-align:middle;
+		  display:flex;justify-content:center;align-items:center;
+		
+}
+.carta{margin: 0px;}
+
+#error {text-align: center;}
+#homepage {text-align: center;}
+#bottone {display:flex;justify-content:center;align-items:center;
+	height: 100%;}
+#paginatot { padding-left: 30px;
+			padding-right: 30px;}
+
+.label-icon {margin-top: -10px;} //icona lente di ingrandimento
+
+
+
